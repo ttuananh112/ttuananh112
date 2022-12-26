@@ -17,4 +17,4 @@ contacts:
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ttuananh112&theme=buefy&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttuananh112&layout=default) |
 | -- | -- |
 
-![snake gif](https://github.com/ttuananh112/ttuananh112/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/ttuananh112/ttuananh112/blob/output/github-contribution-grid-snake.gif)
