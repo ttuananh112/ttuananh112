@@ -12,7 +12,7 @@ fields_of_interests:
 contacts:
 - https://www.linkedin.com/in/tuananh112
 ```
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ttuananh112&theme=blue-green&show_icons=true)
+<hr>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttuananh112&layout=compact&card_width=450)
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ttuananh112&theme=buefy&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ttuananh112&layout=default) |
+| -- | -- |
