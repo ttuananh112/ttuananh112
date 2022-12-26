@@ -20,5 +20,5 @@ contacts:
 
 ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 
-![snake gif](https://github.com/ttuananh112/ttuananh112/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/ttuananh112/ttuananh112/blob/output/github-contribution-grid-snake.svg)
 
