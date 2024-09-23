@@ -8,5 +8,7 @@ fields_of_interests:
 - Distributed processing
 contacts:
 - https://www.linkedin.com/in/tuananh112
+email:
+- t.tuananh112@gmail.com
 ```
 <hr>
