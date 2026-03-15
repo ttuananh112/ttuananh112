@@ -3,6 +3,8 @@ name: Tuan Anh Tran
 location: Hanoi, Vietnam
 company: SpreeAI
 fields_of_interests:
+- Generative AI
+- Diffusion/Flow model
 - Computer Vision
 - MLOps
 - Distributed processing
